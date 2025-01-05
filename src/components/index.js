@@ -1,5 +1,5 @@
 import Header from "./Header/Header";
-import footer from "./footer/footer";
+import Footer from "./Footer/Footer";
 import Container from "./container/Container";
 import Logo from "./Logo";
 import LogoutBtn from "./Header/LogoutBtn";
@@ -15,7 +15,7 @@ import Select from "./Select";
 
 export {
     Header,
-    footer,
+    Footer,
     Container,
     Logo,
     LogoutBtn,
